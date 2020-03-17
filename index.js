@@ -61,4 +61,4 @@
               setTimeout(function() { 
                 settime(val) 
               },1000) 
-            }
+            } 
